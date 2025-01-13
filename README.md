@@ -1,6 +1,6 @@
 # Welcome to Suretek 👋  
 
-!https://via.placeholder.com/200x100.png?text=Company+Logo  
+![Company Logo](https://suretekinfosoft.com/images/logo.png)  
 
 ## 🌟 About Us  
 
