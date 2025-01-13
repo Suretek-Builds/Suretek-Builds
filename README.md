@@ -52,6 +52,5 @@ We’d love to hear from you!
 - *Website:* https://suretekinfosoft.com
 - *Email:* info@suretekinfosoft.com
 - *LinkedIn:* [Linkedin Profile](https://www.linkedin.com/company/suretek-infosoft-pvt--ltd-/posts/?feedView=all)
-- *Twitter:* @YourCompany
 
 ⭐ If you like what we’re doing, don’t forget to give us a star and follow us for more exciting projects!
