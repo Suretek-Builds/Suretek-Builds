@@ -49,9 +49,9 @@ Our open-source projects are licensed under the MIT License. For more details, s
 ### Stay Connected
 We’d love to hear from you!
 
-- *Website:* https://www.yourcompany.com
-- *Email:* mailto:support@yourcompany.com
-- *LinkedIn:* Your Company LinkedIn
+- *Website:* [Company Website](https://suretekinfosoft.com)
+- *Email:* info@suretekinfosoft.com
+- *LinkedIn:* 
 - *Twitter:* @YourCompany
 
 ⭐ If you like what we’re doing, don’t forget to give us a star and follow us for more exciting projects!
