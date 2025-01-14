@@ -6,6 +6,13 @@
 
 At *Suretek*, we strive to build innovative solutions that make a difference. From cutting-edge e-commerce tools to seamless integrations, our mission is to empower businesses and individuals with technology that works for them.  
 
+## 📂 Our Repositories  
+
+Explore our open-source and private repositories:  
+- *[Dynamic Checkout System](https://github.com/Suretek-Builds/nuxt3-dynamic-checkout):* A flexible checkout system built with Nuxt.js, utilizing Pinia for global state management and offering dynamic pricing, shipping, and upsell/downsell functionality.  
+- *[API Handler](https://github.com/yourcompany/api-handler):* A custom API handler that simplifies API interactions with centralized caching and encryption mechanisms.  
+- *[Lightweight UI Library](https://github.com/yourcompany/ui-library):* A lightweight, responsive UI library for rapid development.  
+
 ## 🔧 Technologies We Use  
 
 We utilize a diverse set of modern tools and frameworks to build high-performance, scalable solutions:
@@ -44,13 +51,6 @@ From data-driven development to automation solutions, we offer a wide array of t
 - **Expert Team:** Our team has years of experience in delivering high-quality services across various industries.
 - **End-to-End Support:** From consultation to implementation, we are with you every step of the way to ensure success.
 - **Proven Results:** We pride ourselves on customer satisfaction and the measurable impact we’ve made for our clients.
-
-## 📂 Our Repositories  
-
-Explore our open-source and private repositories:  
-- *[Dynamic Checkout System](https://github.com/Suretek-Builds/nuxt3-dynamic-checkout):* A flexible checkout system built with Nuxt.js, utilizing Pinia for global state management and offering dynamic pricing, shipping, and upsell/downsell functionality.  
-- *[API Handler](https://github.com/yourcompany/api-handler):* A custom API handler that simplifies API interactions with centralized caching and encryption mechanisms.  
-- *[Lightweight UI Library](https://github.com/yourcompany/ui-library):* A lightweight, responsive UI library for rapid development.  
 
 ---  
 
