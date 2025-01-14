@@ -8,12 +8,16 @@ At *Suretek*, we strive to build innovative solutions that make a difference. Fr
 
 ## 🔧 Technologies We Use  
 
-Our tech stack includes the latest tools and frameworks to ensure performance and scalability:  
-- *Frontend:* Vue.js, Nuxt.js, React, Tailwind CSS  
-- *Backend:* Node.js, Python, PHP  
-- *DevOps:* Docker, Kubernetes, AWS, Vercel  
-- *Database:* MongoDB, PostgreSQL, MySQL  
-- *Analytics & Tracking:* Google Tag Manager (GTM), Facebook Conversions API (CAPI)  
+We utilize a diverse set of modern tools and frameworks to build high-performance, scalable solutions:
+
+**Frontend Technologies:** Vue.js, Nuxt.js, React, Next.js, Angular, Tailwind CSS, Bootstrap  
+**Backend Technologies:** Node.js, Python, PHP, Laravel, Express.js  
+**Database Solutions:** MongoDB, PostgreSQL, MySQL, Firebase  
+**DevOps & Cloud Technologies:** Docker, Kubernetes, AWS, Vercel, Google Cloud Platform (GCP)  
+**Analytics & Tracking:** Google Tag Manager (GTM), Facebook Conversions API (CAPI), Google Analytics  
+**Mobile Development:** React Native, Flutter, Android, MIUI  
+**CRM Solutions:** CheckoutChamp, Go HighLevel  
+**Other Tools & Integrations:** Shopify, WooCommerce, Stripe, PayPal, Zapier, Salesforce, HubSpot CRM   
 
 ## 🔧 What We Do
 
