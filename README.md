@@ -41,8 +41,6 @@ From data-driven development to automation solutions, we offer a wide array of t
 - **End-to-End Support:** From consultation to implementation, we are with you every step of the way to ensure success.
 - **Proven Results:** We pride ourselves on customer satisfaction and the measurable impact we’ve made for our clients.
 
----
-
 ## 📂 Our Repositories  
 
 Explore our open-source and private repositories:  
@@ -56,31 +54,7 @@ Explore our open-source and private repositories:
 
 Ready to enhance your business with custom tech solutions? Get in touch with us today, and let's discuss how we can help you grow.
 
-📧 Contact us at: [Your Contact Email]  
-🌐 Visit our website: [Your Website URL]
+📧 Contact us at: info@suretekinfosoft.com  
+🌐 Visit our website: https://suretekinfosoft.com
 
 ---
-
-Our focus is on delivering high-quality, scalable, and reliable solutions to help our clients thrive in a competitive market.  
-
----  
-
-## 🤝 Join Us
-We believe in collaboration and innovation. Here’s how you can get involved with Suretek:
-
-### How You Can Contribute
-- *Fork and Contribute:* Fork our repositories, make improvements, and submit pull requests.
-- *Report Issues:* Found a bug or have an idea? Open an issue on GitHub.
-- *Spread the Word:* Share our projects with your network to help us grow.
-
-### License
-Our open-source projects are licensed under the MIT License. For more details, see the LICENSE file in each repository.
-
-### Stay Connected
-We’d love to hear from you!
-
-- *Website:* https://suretekinfosoft.com
-- *Email:* info@suretekinfosoft.com
-- *LinkedIn:* [Linkedin Profile](https://www.linkedin.com/company/suretek-infosoft-pvt--ltd-/posts/?feedView=all)
-
-⭐ If you like what we’re doing, don’t forget to give us a star and follow us for more exciting projects!
