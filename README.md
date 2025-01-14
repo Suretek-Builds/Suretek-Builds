@@ -41,6 +41,17 @@ From data-driven development to automation solutions, we offer a wide array of t
 - **End-to-End Support:** From consultation to implementation, we are with you every step of the way to ensure success.
 - **Proven Results:** We pride ourselves on customer satisfaction and the measurable impact we’ve made for our clients.
 
+---
+
+## 📂 Our Repositories  
+
+Explore our open-source and private repositories:  
+- *[Dynamic Checkout System](https://github.com/Suretek-Builds/nuxt3-dynamic-checkout):* A flexible checkout system built with Nuxt.js, utilizing Pinia for global state management and offering dynamic pricing, shipping, and upsell/downsell functionality.  
+- *[API Handler](https://github.com/yourcompany/api-handler):* A custom API handler that simplifies API interactions with centralized caching and encryption mechanisms.  
+- *[Lightweight UI Library](https://github.com/yourcompany/ui-library):* A lightweight, responsive UI library for rapid development.  
+
+---  
+
 ## 📞 Let's Get Started
 
 Ready to enhance your business with custom tech solutions? Get in touch with us today, and let's discuss how we can help you grow.
@@ -51,15 +62,6 @@ Ready to enhance your business with custom tech solutions? Get in touch with us 
 ---
 
 Our focus is on delivering high-quality, scalable, and reliable solutions to help our clients thrive in a competitive market.  
-
----  
-
-## 📂 Our Repositories  
-
-Explore our open-source and private repositories:  
-- *[Dynamic Checkout System](https://github.com/Suretek-Builds/nuxt3-dynamic-checkout):* A flexible checkout system built with Nuxt.js, utilizing Pinia for global state management and offering dynamic pricing, shipping, and upsell/downsell functionality.  
-- *[API Handler](https://github.com/yourcompany/api-handler):* A custom API handler that simplifies API interactions with centralized caching and encryption mechanisms.  
-- *[Lightweight UI Library](https://github.com/yourcompany/ui-library):* A lightweight, responsive UI library for rapid development.  
 
 ---  
 
