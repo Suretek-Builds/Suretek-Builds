@@ -6,6 +6,15 @@
 
 At *Suretek*, we strive to build innovative solutions that make a difference. From cutting-edge e-commerce tools to seamless integrations, our mission is to empower businesses and individuals with technology that works for them.  
 
+## 🔧 Technologies We Use  
+
+Our tech stack includes the latest tools and frameworks to ensure performance and scalability:  
+- *Frontend:* Vue.js, Nuxt.js, React, Tailwind CSS  
+- *Backend:* Node.js, Python, PHP  
+- *DevOps:* Docker, Kubernetes, AWS, Vercel  
+- *Database:* MongoDB, PostgreSQL, MySQL  
+- *Analytics & Tracking:* Google Tag Manager (GTM), Facebook Conversions API (CAPI)  
+
 ## 🔧 What We Do
 
 At Suretek, we provide a wide range of tailored services to meet your unique business needs:
@@ -42,17 +51,6 @@ Ready to enhance your business with custom tech solutions? Get in touch with us 
 ---
 
 Our focus is on delivering high-quality, scalable, and reliable solutions to help our clients thrive in a competitive market.  
-
----  
-
-## 🔧 Technologies We Use  
-
-Our tech stack includes the latest tools and frameworks to ensure performance and scalability:  
-- *Frontend:* Vue.js, Nuxt.js, React, Tailwind CSS  
-- *Backend:* Node.js, Python, PHP  
-- *DevOps:* Docker, Kubernetes, AWS, Vercel  
-- *Database:* MongoDB, PostgreSQL, MySQL  
-- *Analytics & Tracking:* Google Tag Manager (GTM), Facebook Conversions API (CAPI)  
 
 ---  
 
