@@ -60,5 +60,6 @@ Ready to enhance your business with custom tech solutions? Get in touch with us 
 
 📧 Contact us at: info@suretekinfosoft.com  
 🌐 Visit our website: https://suretekinfosoft.com
+Linkedin: https://www.linkedin.com/company/suretek-infosoft-pvt--ltd-/posts/?feedView=all
 
 ---
