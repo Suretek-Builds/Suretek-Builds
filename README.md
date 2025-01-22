@@ -58,8 +58,8 @@ From data-driven development to automation solutions, we offer a wide array of t
 
 Ready to enhance your business with custom tech solutions? Get in touch with us today, and let's discuss how we can help you grow.
 
-📧 Contact us at: ritesh.suri@suretekinfosoft.com
-🌐 Visit our website: https://suretekinfosoft.com 
+📧 Contact us at: ritesh.suri@suretekinfosoft.com  
+🌐 Visit our website: https://suretekinfosoft.com   
 🔗 Linkedin: [LinkedIn Profile](https://www.linkedin.com/company/suretek-infosoft-pvt--ltd-/posts/?feedView=all)
 
 ---
