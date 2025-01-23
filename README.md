@@ -10,7 +10,7 @@ At *Suretek*, we strive to build innovative solutions that make a difference. Fr
 
 Explore our open-source and private repositories:  
 - *[Dynamic Checkout System](https://github.com/Suretek-Builds/nuxt3-dynamic-checkout):* A flexible checkout system built with Nuxt.js, utilizing Pinia for global state management and offering dynamic pricing, shipping, and upsell/downsell functionality.  
-- *[API Handler](https://github.com/yourcompany/api-handler):* A custom API handler that simplifies API interactions with centralized caching and encryption mechanisms.  
+- *[Inventory Management System](https://github.com/Suretek-Builds/Inventory-Management-System):* The Inventory Management System is designed to simulate and manage procedure codes and inventory levels in a healthcare setting.
 - *[Suretek Pro Timer](https://github.com/Suretek-Builds/suretek-pro-timer):* Suretek Pro Timer is a customizable TypeScript-based timer utility for JavaScript projects, supporting flexible countdown formats and event callbacks.
 
 ## 🔧 Technologies We Use  
